@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      Changersh的算法模板
+subtitle:   粗浅整理
+date:       2023-06-12
+author:     Changersh
+header-img: img/the-first.png
+catalog:   true
+tags:
+    - 算法学习
+---
 Changersh的ACM模板
 
 ## 基础算法
